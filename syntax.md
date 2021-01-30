@@ -51,9 +51,37 @@ without language
 ```
 
 
-```HTML
-<html>
-  <head>
-      <title>sample</title>
-      </head>
-     ```
+#```HTML
+#<html>
+ #    <title>sample</title>
+  #    </head>
+   #  ```
+
+# Tables
+| table | head1 | head2 |
+|----|----|----|
+| data1 | data2 | data3 |
+| data4| data4 | data6 |
+
+table | head 1 | head 2
+-----|-----|-----
+**data1** | _data2_ | _data3_
+data4 | data5 | data6
+
+# BlockQuotes
+
+> this is block quote
+# horizontal file
+213832342348
+316871718467
+-----
+fjdhdsjfh
+*****
+sdsfsdkajfksaj
+
+dsfa
+
+____
+gchsgdyfsdmsndan
+
+isijeqw
